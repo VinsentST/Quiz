@@ -1,6 +1,6 @@
 # Quiz
 
-This project I developed the application, which you can use if you want to create
+I developed the application, which you can use if you want to create
 special test for some groups. The information about this test is saved on Firebase.
 I used Redux, but without Hooks.
 
